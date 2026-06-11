@@ -1,0 +1,1 @@
+{"name":"test-eleventy","private":true,"scripts":{"build":"npx @11ty/eleventy"},"devDependencies":{"@11ty/eleventy":"^2"}}
